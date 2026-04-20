@@ -9,7 +9,7 @@ import SwiftUI
 
 struct NylaView: View {
     var body: some View {
-        Text("Hi :p")
+        Text("Hi there :p")
     }
 }
 
